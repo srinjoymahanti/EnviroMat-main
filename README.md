@@ -263,7 +263,7 @@ We welcome contributions to EnviroMat! Please follow these steps:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use [GitHub Issues](https://github.com/subratamondalnsec/EnviroMat/issues) to report bugs or request features.
+Please use [GitHub Issues]<!--(https://github.com/subratamondalnsec/EnviroMat/issues) -->to report bugs or request features.
 
 ## 📄 License
 
