@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Email**: support@enviromat.com
-- **GitHub**: [@subratamondalnsec](https://github.com/subratamondalnsec)
-- **Project Repository**: [EnviroMat](https://github.com/subratamondalnsec/EnviroMat)
+- **GitHub**: <!--[@subratamondalnsec](https://github.com/subratamondalnsec)
+- **Project Repository**: <!--[EnviroMat](https://github.com/subratamondalnsec/EnviroMat)
 
 ---
 
