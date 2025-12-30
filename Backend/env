@@ -1,0 +1,23 @@
+# Database
+MONGODB_URI=your_mongodb_connection_string
+
+# JWT
+JWT_SECRET=your_jwt_secret
+REFRESH_TOKEN_SECRET=your_refresh_token_secret
+
+# Cloudinary
+CLOUDINARY_CLOUD_NAME=your_cloudinary_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
+
+# Email Configuration
+MAIL_HOST=smtp.gmail.com
+MAIL_USER=your_email@gmail.com
+MAIL_PASS=your_app_password
+
+# Google AI
+GOOGLE_AI_API_KEY=your_google_ai_api_key
+
+# Server
+PORT=4000
+NODE_ENV=development
